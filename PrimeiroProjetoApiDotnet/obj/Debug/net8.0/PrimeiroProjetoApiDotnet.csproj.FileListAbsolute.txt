@@ -36,3 +36,4 @@ C:\Users\graziela.silva\source\repos\PrimeiroProjetoApiDotnet\PrimeiroProjetoApi
 C:\Users\graziela.silva\source\repos\PrimeiroProjetoApiDotnet\PrimeiroProjetoApiDotnet\obj\Debug\net8.0\ref\PrimeiroProjetoApiDotnet.dll
 C:\Users\graziela.silva\source\repos\PrimeiroProjetoApiDotnet\PrimeiroProjetoApiDotnet\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\graziela.silva\source\repos\PrimeiroProjetoApiDotnet\PrimeiroProjetoApiDotnet\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\graziela.silva\source\repos\PrimeiroProjetoApiDotnet\PrimeiroProjetoApiDotnet\obj\Debug\net8.0\PrimeiroProjetoApiDotnet.sourcelink.json

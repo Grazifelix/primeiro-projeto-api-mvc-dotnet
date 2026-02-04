@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeiroProjetoApiDotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c87d54c1a934c5b05fbd035cc606dc52a0fc72")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeiroProjetoApiDotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeiroProjetoApiDotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

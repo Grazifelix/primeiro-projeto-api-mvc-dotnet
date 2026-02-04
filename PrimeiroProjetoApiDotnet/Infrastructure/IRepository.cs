@@ -10,7 +10,6 @@ namespace PrimeiroProjetoApiDotnet.Infrastructure
         public void delete(Books book);
         public void update(Books book);
         public Books searchBook(string title);
-
         public Books searchAuthor(string author);
 
     }

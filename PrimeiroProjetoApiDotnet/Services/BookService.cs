@@ -43,5 +43,11 @@ namespace PrimeiroProjetoApiDotnet.Service
 
         }
 
+        public Books GetBookByTitle(string title)
+        {
+            var book = _bookRepository.searchBook(title);
+            return _mapper.Map<Books>(book);
+        }
+
     }
 }

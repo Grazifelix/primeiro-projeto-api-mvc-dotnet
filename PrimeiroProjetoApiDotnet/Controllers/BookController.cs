@@ -25,5 +25,12 @@ namespace PrimeiroProjetoApiDotnet.Controllers
         {
             return _bookService.GetAllBooks(); 
         }
+
+        [HttpGet("getBook/{title}")]
+        public Books getBookByTitle(string title) { 
+
+            return _bookService.GetBookByTitle(title);
+
+        }
     }
 }

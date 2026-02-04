@@ -7,6 +7,7 @@ namespace PrimeiroProjetoApiDotnet.Services
     {
         public Books AddBook(Books book);
         public List<BooksDTO> GetAllBooks();
+        public Books GetBookByTitle(string title);
 
     }
 }
